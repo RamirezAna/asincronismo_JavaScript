@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "Ana Ramirez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
